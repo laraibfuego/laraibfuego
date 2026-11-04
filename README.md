@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adnan Ahmad Khan
 
-<img align="right" alt="Cyber Security" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3V6MzNubTFsdTRmNnB2ZjR4aXo2dTQ2cWRmMTRrYXB3MWQ2eGZzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif">
+
 
 🎓 Bachelor of Commerce (B.Com)
 
