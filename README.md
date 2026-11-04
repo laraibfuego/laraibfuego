@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Adnan Ahmad Khan
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+Cybersecurity+Profile...;Loading+Security+Modules...;Scanning+for+Vulnerabilities...;Access+Granted...;Welcome+to+Adnan's+GitHub!" />
+</p>
 
 🎓 Bachelor of Commerce (B.Com)
 
